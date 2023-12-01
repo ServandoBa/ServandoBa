@@ -1,6 +1,8 @@
-- 👀 I’m a Data Analyst devling into the world of data science
-- 🌱 I’m currently learning Data science techniques
-- 📫 Linkedin: https://www.linkedin.com/in/servandobarron/
+Hey! I’m a Data Analyst devling into the world of data science. Currently I am learning in-depth Data science techniques and also looking for projects to apply my kndowledge and as the same way to learn from them. You can find me on Linekdin: https://www.linkedin.com/in/servandobarron/
+
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=python,postgres,vscode)](https://skillicons.dev)
       
 
 <!---
