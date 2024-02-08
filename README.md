@@ -2,7 +2,7 @@ Hey! I’m a Data Analyst devling into the world of data science. Currently I am
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=python,postgres,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,postgres,mongodb,azure,vscode)](https://skillicons.dev)
       
 
 <!---
