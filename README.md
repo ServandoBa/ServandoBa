@@ -12,7 +12,7 @@ Tools & Languages:
 <br>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=python,postgres,mongodb,azure,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,postgres,mongodb,azure,gcp,vscode)](https://skillicons.dev)
       
 
 <!---
