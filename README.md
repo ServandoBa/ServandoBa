@@ -1,5 +1,3 @@
-Hey! I’m a Data Analyst devling into the world of data science. Currently I am learning in-depth Data science techniques and also looking for projects to apply my kndowledge and as the same way to learn from them.
-
 Connect with me:
 <br>
 <br>
